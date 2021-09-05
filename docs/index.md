@@ -3,6 +3,8 @@
 
 Welcome to this programming tutorial by [SimonFJ20](https://www.github.com/SimonFJ20/)
 
+You can also view these pages directly on GitHub [here](https://github.com/SimonFJ20/YAPT/blob/main/docs/index.md).
+
 ## Tutorials
 
 ### [Random Number Game in Python](./random-number-game-python/index.md)
