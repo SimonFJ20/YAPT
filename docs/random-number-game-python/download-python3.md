@@ -1,4 +1,6 @@
 
+[Go back](index.md)
+
 # How to download Python3
 
 ## On windows
@@ -45,3 +47,5 @@
 ![Check Python](..\assets\dp-cmd-python.PNG)
 
 Congratulations you have installed Python3. If any problems, use google, fx `how to add python to path on windows`.
+
+[Go back](index.md)
