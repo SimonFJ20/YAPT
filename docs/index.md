@@ -11,6 +11,6 @@ Welcome to this programming tutorial by [SimonFJ20](https://www.github.com/Simon
 
 ### [How to install Python 3](./download-python3.md)
 
-### [How to install VSCode](./download-download-vscode.md)
+### [How to install VSCode](./download-vscode.md)
 
 ### [Python Browser IDE](./imbedded-trinket.html)
